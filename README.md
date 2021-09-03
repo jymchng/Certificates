@@ -5,7 +5,7 @@ This repository stores Soon Siang's official certificates, under the professiona
 
 # Educational
 
-You can find the certificates as tabulated in the list below in the folder named `educational`.
+You can find the certificates as tabulated in the list below and stored in the folder named `educational`.
 
 | #    | Description                                                  | Awarded By                                |
 | ---- | ------------------------------------------------------------ | ----------------------------------------- |
@@ -19,7 +19,7 @@ You can find the certificates as tabulated in the list below in the folder named
 
 # Professional
 
-You can find the certificates as tabulated in the list below in the folder named `professional`.
+You can find the certificates as tabulated in the list below and stored in the folder named `professional`.
 
 | #    | Description            | Awarded By     |
 | ---- | ---------------------- | -------------- |
@@ -28,7 +28,7 @@ You can find the certificates as tabulated in the list below in the folder named
 
 # Lifelong-Learning
 
-You can find the certificates as tabulated in the list below in the folder named `lifelong_learning`.
+You can find the certificates as tabulated in the list below and stored in the folder named `lifelong_learning`.
 
 | #    | Description                                              | Awarded By         |
 | ---- | -------------------------------------------------------- | ------------------ |
