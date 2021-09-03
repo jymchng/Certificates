@@ -6,6 +6,8 @@ import sys
 current_dir = os.getcwd()
 pdf_files = [file for file in os.listdir(current_dir) if '.pdf' in file]
 print("Here is a list of all PDF files in this folder.")
+for pdf_file in pdf_files:
+    print(pdf_file)
 print("-"*10)
 x = input("Would you like to merge all pdf files? (y/n) ")
 x = x.lower()
